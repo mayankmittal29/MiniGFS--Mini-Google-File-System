@@ -1,0 +1,73 @@
+{
+    "myfile.txt": {
+        "chunk0_myfile.txt": 8001,
+        "chunk0_myfile.txt_replica1": 8002,
+        "chunk0_myfile.txt_replica2": 8003,
+        "chunk0_myfile.txt_replica3": 8004,
+        "total_chunks": 1
+    },
+    "myfile2.txt": {
+        "total_chunks": 0
+    },
+    "myfile3.txt": {
+        "chunk0_myfile3.txt": 8001,
+        "chunk0_myfile3.txt_replica1": 8002,
+        "chunk0_myfile3.txt_replica2": 8003,
+        "chunk0_myfile3.txt_replica3": 8004,
+        "chunk1_myfile3.txt": 8002,
+        "chunk1_myfile3.txt_replica1": 8003,
+        "chunk1_myfile3.txt_replica2": 8004,
+        "chunk1_myfile3.txt_replica3": 8005,
+        "chunk2_myfile3.txt": 8003,
+        "chunk2_myfile3.txt_replica1": 8004,
+        "chunk2_myfile3.txt_replica2": 8005,
+        "chunk2_myfile3.txt_replica3": 8001,
+        "chunk3_myfile3.txt": 8004,
+        "chunk3_myfile3.txt_replica1": 8005,
+        "chunk3_myfile3.txt_replica2": 8001,
+        "chunk3_myfile3.txt_replica3": 8002,
+        "chunk4_myfile3.txt": 8005,
+        "chunk4_myfile3.txt_replica1": 8001,
+        "chunk4_myfile3.txt_replica2": 8002,
+        "chunk4_myfile3.txt_replica3": 8003,
+        "chunk5_myfile3.txt": 8001,
+        "chunk5_myfile3.txt_replica1": 8002,
+        "chunk5_myfile3.txt_replica2": 8003,
+        "chunk5_myfile3.txt_replica3": 8004,
+        "total_chunks": 5
+    },
+    "a.txt": {
+        "chunk0_a.txt": 8001,
+        "chunk0_a.txt_replica1": 8002,
+        "chunk0_a.txt_replica2": 8003,
+        "chunk0_a.txt_replica3": 8004,
+        "chunk1_a.txt": 8002,
+        "chunk1_a.txt_replica1": 8003,
+        "chunk1_a.txt_replica2": 8004,
+        "chunk1_a.txt_replica3": 8005,
+        "total_chunks": 2
+    },
+    "b.txt": {
+        "chunk0_b.txt": 8001,
+        "chunk0_b.txt_replica1": 8002,
+        "chunk0_b.txt_replica2": 8003,
+        "chunk0_b.txt_replica3": 8004,
+        "total_chunks": 1
+    },
+    "m.txt": {
+        "total_chunks":0
+    },
+    "s.txt": {
+        "total_chunks":0
+    },
+    "w.txt": {
+        "chunk0_w.txt": 8001,
+        "chunk0_w.txt_replica1": 8002,
+        "chunk0_w.txt_replica2": 8003,
+        "chunk0_w.txt_replica3": 8004,
+        "total_chunks": 1
+    },
+    "d.txt": {
+        "total_chunks": 0
+    }
+}
